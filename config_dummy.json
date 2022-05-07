@@ -20,6 +20,12 @@
         "delighted",
         "glad"
     ],
+    "site_queries": [
+        "linkedin.com",
+        "https://wiza.co/d/",
+        "https://twitter.com/",
+        "facebook.com/"
+    ],
     "querystring": {
         "categories": "148",
         "subcategories": "",
@@ -81,6 +87,7 @@
             "adobe after effects",
             "invision",
             "miro"
-        ]
+        ],
+        "signature": "dummy_sig.png"
     }
 }
